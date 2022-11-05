@@ -3,6 +3,7 @@ ORGK
 Marc:
 <details>
 <summary> ORKG -  Open Research Knowledge Graphs </summary>
+    
 #### The Organization
 
 The ORKG is a Organisation with the goal to make scientific papers better findable. 
