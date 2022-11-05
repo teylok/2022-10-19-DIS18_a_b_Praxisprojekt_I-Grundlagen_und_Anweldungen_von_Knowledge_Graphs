@@ -2,7 +2,8 @@ ORGK
 
 Marc:
 
-# ORGK - The Organization
+## ORGK -  Open Research Knowledge Graphs
+### The Organization
 
 The ORKG is a Organisation with the goal to make scientific papers better findable. 
 ORKG achieves this by structuring the research papers using Knowledge Graphs.
@@ -17,9 +18,9 @@ The ORKG receives funding through grants from the European Research Council (ERC
 
 https://orkg.org/about/11/History 
 
-Main focus of ORKG
+## Main focus of ORKG
 
-The Problem
+### The Problem
 - The science community has communicated the same way since its upcoming.
 - Approximately 2,5 million scientific articles are published yearly
 - Because of missing structure, researchers cant find relevant papers. (Research flood)
@@ -29,6 +30,15 @@ The Problem
     - Lack of peer reviewed papers
     - Even in small science field peers drown in a information flood
     - Ultimalely the loss of knowledge occurs
+    
+### The Solution
+    
+- "The ORKG makes scientific knowledge human- and machine-actionable and thus enables completely new ways of machine assistance."
+
+- This makes finding the right papers easier and creates more opportuninty for comparisons and reviews.
+- Using ORGK, researchers can explore more knowledge and share results over different disciplines.
+
+
 
 
 What are they doing?
@@ -44,4 +54,6 @@ why should we interact?
 - orkg against competitors
 - easy way of sharing
 - better digital communication
+
+-
 
