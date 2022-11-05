@@ -17,14 +17,18 @@ The ORKG receives funding through grants from the European Research Council (ERC
 
 https://orkg.org/about/11/History 
 
+Main focus of ORKG
 
-THE ORKG uses RDF as as Base for Knowledge Graph Development.
+The Problem
+- The science community has communicated the same way since its upcoming.
+- Approximately 2,5 million scientific articles are published yearly
+- Because of missing structure, researchers cant find relevant papers. (Research flood)
 
-The ORKG 
-- founded by 
-- gitlab
-- builds on
-- cool timeline history
+- Causes a scientific crisis:
+    - Results can't be reproduced
+    - Lack of peer reviewed papers
+    - Even in small science field peers drown in a information flood
+    - Ultimalely the loss of knowledge occurs
 
 
 What are they doing?
