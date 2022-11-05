@@ -1,6 +1,4 @@
-ORGK
 
-Marc:
 <details>
 <summary> ORKG -  Open Research Knowledge Graphs </summary>
     
@@ -24,6 +22,7 @@ https://orkg.org/about/11/History
 -ORKG has a  Open Source Gitlab with a lot of information to their Natural Language Processing algorithms, Back- Frontend Information, Special Feature for Covid-19, Ontology and more.
 
 </details>
+<details>
 ## Main focus of ORKG
 
 ### The Problem
