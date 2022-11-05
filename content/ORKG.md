@@ -43,12 +43,10 @@ https://orkg.org/about/11/History
 - This makes finding the right papers easier and creates more opportuninty for comparisons and reviews.
 - Using ORGK, researchers can explore more knowledge and share results over different disciplines.
 
+## Other Activities
 
 
 
-What are they doing?
-- why things
-- other activities
 
 Bene:
 how can we interact?
